@@ -1,5 +1,5 @@
 
-local hevgordon = {
+--[[local hevgordon = {
 
 }
 
@@ -20,4 +20,4 @@ hook.Add("GetPlayerPainSound", "", function(client)
 	end
 end)
 
-
+]]--
